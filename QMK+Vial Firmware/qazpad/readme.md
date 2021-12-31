@@ -1,6 +1,6 @@
 QAZpad, made by Kiser Designs (Noah Kiser, contact@kiserdesigns.com)
 
-Keyboard Maintainer: QMK Community  
+Keyboard Maintainer: Noah Kiser (NoahK#1290 on Discord)
 Hardware Supported: QAZpad, ATmega32U4  
 Hardware Availability: [KiserDesigns.com](http://kiserdesigns.com/)
 
